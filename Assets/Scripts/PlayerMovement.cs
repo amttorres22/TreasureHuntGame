@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         speed = 10;
-        jumpPower = 3;
+        jumpPower = 8;
     }
 
     // Update is called once per frame
